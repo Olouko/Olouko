@@ -4,7 +4,7 @@
 
 - e estudo na escola Vitor meirelies 
 
-- eu estou usando essa plataforma para guardar meus projetos e apresentar 
+- eu estou usando essa plataforma **github** para guardar meus projetos e apresentar 
 
 - estou estudando varias liguas de computação 
 
